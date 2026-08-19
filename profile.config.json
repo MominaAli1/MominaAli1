@@ -1,67 +1,84 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Momina Ali",
+    "username": "MominaAli1",
+    "headline": "AI Engineer",
+    "affiliation": "IBA Karachi",
+    "location": "Remote / Worldwide",
+    "status": "Building AI Products",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build frontend and backend systems for AI applications, focusing on turning model capabilities into real, usable products.",
+      "My work spans AI automations, agentic workflows, and retrieval-based systems, from user-facing interfaces to the pipelines that power them."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "AI Automation",
+    "direction": "Full-stack AI product systems",
+    "themes": "Agents / RAG / Automation",
+    "narrative": "I'm interested in building AI systems end-to-end: interfaces people actually use, automations that remove repetitive work, and retrieval pipelines that ground model outputs in real data."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend AI Apps",
+      "description": "Building responsive, production-ready interfaces for AI-powered products with React and Next.js."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Backend AI Systems",
+      "description": "Designing APIs, data pipelines, and automation logic that power reliable AI applications."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "AI Automations",
+      "description": "Building agentic workflows and automation pipelines that connect models, tools, and data."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "MenuKita",
+      "url": "https://github.com/wildanniam/menu-kita",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Mixed-diet group dining",
+      "summary": "Scans restaurant menus and checks each dish against every diner's food profile, flagging what works, what conflicts, and generating translated questions to ask the restaurant.",
+      "heroLabel": "Mixed-diet dining"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "3D Website",
+      "url": "https://github.com/MominaAli1/3dWebsite",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Three.js animation practice",
+      "summary": "A demo site built with Three.js featuring a 3D donut animation, built to practice animation techniques for the web.",
+      "heroLabel": "3D animation demo"
+    },
+    {
+      "name": "RAG Pipeline",
+      "url": "https://github.com/MominaAli1/RAG",
+      "homepage": "",
+      "focus": "Local retrieval-augmented generation",
+      "summary": "A fully local RAG pipeline in Python: extracts PDF text, chunks and embeds it, stores vectors in ChromaDB, and generates grounded answers using Groq's LLaMA 3.",
+      "heroLabel": "Local RAG system"
     }
   ],
   "techStack": [
-    "TypeScript",
+    "React",
     "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind CSS",
+    "Three.js",
+    "Framer Motion",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "LangChain",
+    "LangGraph",
+    "Groq LLaMA 3",
+    "ChromaDB",
+    "Supabase",
+    "PyPDF2"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "MominaAli1",
+      "url": "https://github.com/MominaAli1",
       "logo": "github",
       "color": "0B1220"
     }
@@ -71,7 +88,7 @@
     "limit": 6
   },
   "appearance": {
-    "palette": "signal"
+    "palette": "solar"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building AI products end-to-end — from interface to pipeline."
 }
