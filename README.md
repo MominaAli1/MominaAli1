@@ -41,7 +41,7 @@ I'm interested in building AI systems end-to-end: interfaces people actually use
 
 ## Tech Stack
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Three.js` · `Framer Motion` · `Python` · `LangChain` · `LangGraph` · `Groq LLaMA 3` · `ChromaDB` · `Supabase` · `PyPDF2`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Three.js` · `Python` 
 
 ## Recent Activity
 
@@ -57,5 +57,5 @@ I'm interested in building AI systems end-to-end: interfaces people actually use
 ---
 
 <p align="center">
-  Building AI products end-to-end — from interface to pipeline.
+  Building AI products end-to-end.
 </p>
