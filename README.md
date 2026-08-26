@@ -46,12 +46,12 @@ I'm interested in building AI systems end-to-end: interfaces people actually use
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Aug 19, 2026: pushed 1 commit to [MominaAli1/MominaAli1](https://github.com/MominaAli1/MominaAli1).
-- Aug 18, 2026: created a branch in [MominaAli1/MominaAli1](https://github.com/MominaAli1/MominaAli1).
-- Aug 18, 2026: pushed 1 commit to [wildanniam/menu-kita](https://github.com/wildanniam/menu-kita).
-- Aug 18, 2026: opened pull request [#4](https://github.com/wildanniam/menu-kita) in [wildanniam/menu-kita](https://github.com/wildanniam/menu-kita).
-- Aug 18, 2026: merged pull request [#3](https://github.com/wildanniam/menu-kita) in [wildanniam/menu-kita](https://github.com/wildanniam/menu-kita).
-- Aug 18, 2026: opened pull request [#3](https://github.com/wildanniam/menu-kita) in [wildanniam/menu-kita](https://github.com/wildanniam/menu-kita).
+- Aug 25, 2026: pushed 1 commit to [MominaAli1/3dWebsite](https://github.com/MominaAli1/3dWebsite).
+- Aug 25, 2026: created a branch in [MominaAli1/3dWebsite](https://github.com/MominaAli1/3dWebsite).
+- Aug 25, 2026: pushed 1 commit to [MominaAli1/MominaAli1](https://github.com/MominaAli1/MominaAli1).
+- Aug 25, 2026: opened pull request [#5](https://github.com/MominaAli1/3dWebsite) in [MominaAli1/3dWebsite](https://github.com/MominaAli1/3dWebsite).
+- Aug 10, 2026: closed pull request [#4](https://github.com/MominaAli1/3dWebsite) in [MominaAli1/3dWebsite](https://github.com/MominaAli1/3dWebsite).
+- Aug 25, 2026: pushed 1 commit to [wildanniam/menu-kita](https://github.com/wildanniam/menu-kita).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
