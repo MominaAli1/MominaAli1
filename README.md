@@ -46,12 +46,12 @@ I'm interested in building AI systems end-to-end: interfaces people actually use
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-- Sep 4, 2026: pushed 1 commit to [MominaAli1/solari-cookbook](https://github.com/MominaAli1/solari-cookbook).
-- Sep 4, 2026: created a branch in [MominaAli1/solari-cookbook](https://github.com/MominaAli1/solari-cookbook).
-- Sep 4, 2026: closed pull request [#42](https://github.com/solari-sdk/solari-cookbook) in [solari-sdk/solari-cookbook](https://github.com/solari-sdk/solari-cookbook).
-- Sep 4, 2026: opened pull request [#42](https://github.com/solari-sdk/solari-cookbook) in [solari-sdk/solari-cookbook](https://github.com/solari-sdk/solari-cookbook).
-- Sep 3, 2026: created a branch in [MominaAli1/solari-cookbook](https://github.com/MominaAli1/solari-cookbook).
-- Aug 25, 2026: pushed 1 commit to [MominaAli1/3dWebsite](https://github.com/MominaAli1/3dWebsite).
+- Sep 9, 2026: pushed 1 commit to [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
+- Sep 9, 2026: created a branch in [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
+- Sep 9, 2026: merged pull request [#2](https://github.com/MominaAli1/VoiceAgent) in [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
+- Sep 9, 2026: opened pull request [#2](https://github.com/MominaAli1/VoiceAgent) in [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
+- Sep 9, 2026: merged pull request [#1](https://github.com/MominaAli1/VoiceAgent) in [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
+- Sep 9, 2026: opened pull request [#1](https://github.com/MominaAli1/VoiceAgent) in [MominaAli1/VoiceAgent](https://github.com/MominaAli1/VoiceAgent).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
